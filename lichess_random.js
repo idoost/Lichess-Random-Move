@@ -24,7 +24,7 @@ function openTable(){
 
 function clickRandomMove() {
 
-  openTable();
+  //openTable();
 
   // Get the table with class name "moves"
   const movesTable = document.querySelector('table.moves');
